@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func mains() {
 	n5 := &ListNode{5, nil}
 	n4 := &ListNode{4, n5}
 	n3 := &ListNode{4, n4}
